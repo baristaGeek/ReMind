@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #1190ff;
+    border-color: #0084f7;
     border-width: 3px;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #1190ff;
+    background-color: #0084f7;
 }
 
 .bg-dark {
@@ -385,9 +385,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #1190ff;
+    border-color: #0084f7;
     color: #fff;
-    background-color: #1190ff;
+    background-color: #0084f7;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
